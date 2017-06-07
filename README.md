@@ -15,7 +15,7 @@ Nothing. You'll need a PC with Windows or Linux.
 ### Installing
 
 Download the archive for your system. Unpack it and double-click the '.exe' on Windows or the executable file on Linux.
-
+https://github.com/Joni4Games/Lightbulb/releases/tag/v0.5-alpha
 
 ## Built With
 
