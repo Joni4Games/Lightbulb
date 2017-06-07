@@ -24,7 +24,7 @@ Download the archive for your system. Unpack it and double-click the '.exe' on W
 
 ## Authors
 
-* **Jonathan F** - *Initial work* - [Joni4Games](https://github.com/Joni4Games)
+* **Jonathan F** - *Everything* - [Joni4Games](https://github.com/Joni4Games)
 
 ## License
 
