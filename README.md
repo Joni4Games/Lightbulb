@@ -5,6 +5,7 @@ Lightbulb - A simple cross-platform Google Keep client written in Electron
 ## Getting Started
 
 You'll need to download the application for your OS.
+You can download the stables by clicking at "releases" under the headline of the project and clicking the links in the release.
 
 ### Prerequisites
 
