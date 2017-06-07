@@ -1,6 +1,6 @@
 # Lightbulb
 Lightbulb - A simple cross-platform Google Keep client written in Electron
-
+![alt tag](https://github.com/Joni4Games/Lightbulb/blob/master/resources/nbuild-stable.png)
 ## Getting Started
 
 You'll need to download the application for your OS.
